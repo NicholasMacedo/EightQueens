@@ -1,9 +1,7 @@
-/*
-eightqueens.h: Houses the function prototypes to solve the eight queens problem.
-Student Name: Nicholas Macedo
-Student ID: nmacedov
-Student Number: 0889469
-*/ 
+/*************************eightqueens.h*************************************
+Student Name: Nicholas Macedo                Student Number: 
+Date: April 8th 2016                         Course Name: CIS 3190
+****************************************************************************/  
 
 #include <stdio.h>
 #include <stdlib.h>
