@@ -1,6 +1,6 @@
 !-------------------------------------!
 !-           Eight Queens            -!
-!- By: Nicholas Macedo (0889469)     -!
+!- By: Nicholas Macedo               -!
 !- Program to solve eight queens     -!
 !- via file.                         -!
 !-------------------------------------!
